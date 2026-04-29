@@ -4,8 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="iG6_nso4GJUcEKTJwAL1-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="iG6_nso4GJUcEKTJwAL1-1" target="iG6_nso4GJUcEKTJwAL1-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iG6_nso4GJUcEKTJwAL1-1" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="210" width="30" height="60" as="geometry" />
+          <mxGeometry x="160" y="220" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iG6_nso4GJUcEKTJwAL1-2" value="用户管理" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="240" y="60" width="100" height="60" as="geometry" />
@@ -46,7 +49,7 @@
         <mxCell id="iG6_nso4GJUcEKTJwAL1-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iG6_nso4GJUcEKTJwAL1-1" target="iG6_nso4GJUcEKTJwAL1-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iG6_nso4GJUcEKTJwAL1-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iG6_nso4GJUcEKTJwAL1-4" target="iG6_nso4GJUcEKTJwAL1-3">
+        <mxCell id="iG6_nso4GJUcEKTJwAL1-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iG6_nso4GJUcEKTJwAL1-1" target="iG6_nso4GJUcEKTJwAL1-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
