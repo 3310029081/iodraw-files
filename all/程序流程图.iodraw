@@ -5,7 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="iG6_nso4GJUcEKTJwAL1-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="150" width="30" height="60" as="geometry" />
+          <mxGeometry x="200" y="100" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iG6_nso4GJUcEKTJwAL1-2" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="360" y="80" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
