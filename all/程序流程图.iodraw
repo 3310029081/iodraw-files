@@ -7,7 +7,7 @@
         <mxCell id="iG6_nso4GJUcEKTJwAL1-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="250" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iG6_nso4GJUcEKTJwAL1-2" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="iG6_nso4GJUcEKTJwAL1-2" value="用户管理" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="240" y="60" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iG6_nso4GJUcEKTJwAL1-3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
